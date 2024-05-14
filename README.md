@@ -15,8 +15,10 @@ User Activity Monitoring: Watches over user activities to pinpoint deviations fr
 Intuitive Dashboard: Provides a user-friendly dashboard that displays real-time analytics, alerts, and system status to help administrators maintain oversight and control.
 Technologies Used:
 
-Python for backend development, due to its robust support for data analysis and machine learning.
-TensorFlow and PyTorch for developing and deploying machine learning models that power the tool’s core functionalities.
-Scikit-Learn and Keras for additional machine learning capabilities, ensuring robust predictive accuracy.
+- Python for backend development, due to its robust support for data analysis and machine learning.
+- TensorFlow and PyTorch for developing and deploying machine learning models that power the tool’s core functionalities.
+- Scikit-Learn and Keras for additional machine learning capabilities, ensuring robust predictive accuracy.
+  
 Objective:
+
 The goal of AI Sentinel is to provide organizations with a powerful tool that not only detects and responds to threats in real time but also adapts and learns from interactions to stay ahead of potential security breaches. By integrating AI, AI Sentinel offers a proactive approach to cybersecurity, turning defensive actions into strategic advantages.
